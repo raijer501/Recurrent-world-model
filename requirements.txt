@@ -1,0 +1,8 @@
+torch
+torchvision
+gymnasium[box2d]
+numpy
+cma
+pyyaml
+opencv-python
+matplotlib
